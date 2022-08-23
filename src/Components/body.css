@@ -1,0 +1,17 @@
+.right-box{
+    width: 80%;
+    float: right;
+}
+
+.left-box{
+    float: left;
+    background-color: rgb(238, 229, 216);
+    width: 18%;
+    padding: 2px;
+    margin: 6px 0px 3px 3px ;
+    height: 100vh;
+}
+
+.thead{
+    border: solid 0.5px rgb(45, 44, 44);
+}
