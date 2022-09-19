@@ -1,20 +1,16 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import Navbar from './Components/Navbar.jsx'
-import Body from './Components/body.jsx'
-import Sidebar from './Components/sidebar.jsx'
-import ProductList from './Components/ProductList'
+import App from './App'
+import { BrowserRouter } from 'react-router-dom';
+
 
 ReactDom.render(
-  <>
-    <Navbar></Navbar>
-    <Body></Body>
-    <Sidebar></Sidebar>
-    <ProductList></ProductList>
-  </>
+  <BrowserRouter>
+    <App/>
+  </BrowserRouter>
+  
   ,document.getElementById("root")
 );
-
 
 
 

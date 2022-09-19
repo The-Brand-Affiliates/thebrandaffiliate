@@ -1,20 +1,23 @@
 import React from 'react'
-import logo from '../img/logo.png'
-import login1 from '../img/login1.png'
+import logo from '../img/logo.svg'
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function nav(){
     return <>
-        <nav class="navbar bg-primary text-white">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="#">
-            <img src={logo} alt="" width="30" height="30" class="d-inline-block align-text-top"/> 
-            
-            <p class="d-inline ">The Brand affiliate</p>
+        <nav className="navbar bg-light nav-txt">
+        <div className="container-fluid">
+          <a className="navbar-brand" href="/">
+            <img src={logo} alt="" width="30" height="30" className="d-inline-block align-text-top"/> 
+            <p className="d-inline m-2">The Brand affiliate</p>
           </a>
-            
-            <img src={login1} alt="login1"/>
+         <div className="container-right d-flex">
+          <a href="/"  className='nav-link me-3 ms-4'>Dashboard</a>
+          <a href="/profile" className='nav-link me-3 ms-4' >Profile</a>
+          <a href="/contact"  className='nav-link me-3 ms-4'>About us</a>
+          </div>   
+          
         </div>
       </nav>
     </>
