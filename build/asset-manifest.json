@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thebradaffiliate/static/css/main.2e4c7e64.css",
+    "main.js": "/thebradaffiliate/static/js/main.a41eb770.js",
+    "static/media/Slice6.svg": "/thebradaffiliate/static/media/Slice6.dcbe7362f5496010d0a11edd6c7af98b.svg",
+    "static/media/Slice 3.svg": "/thebradaffiliate/static/media/Slice 3.34fe5d6f978a945c113a0259801787b8.svg",
+    "static/media/Slice 5.svg": "/thebradaffiliate/static/media/Slice 5.effd5986ce6f834c547910f104dfa361.svg",
+    "static/media/Slice 1.svg": "/thebradaffiliate/static/media/Slice 1.6c065951a3fca56236a8f70c34112f68.svg",
+    "static/media/Slice 4.svg": "/thebradaffiliate/static/media/Slice 4.5ca3f9bc772c7845a430be42e7bab8e8.svg",
+    "static/media/image.png": "/thebradaffiliate/static/media/image.f7cf8aca8d9f152adab3.png",
+    "static/media/Slice 2.svg": "/thebradaffiliate/static/media/Slice 2.58937f8529202b24f55c3e0c9d9f887b.svg",
+    "static/media/logo.svg": "/thebradaffiliate/static/media/logo.a30e4075c637c270d77846990e533a56.svg",
+    "static/media/msgp.svg": "/thebradaffiliate/static/media/msgp.f0fea5e0edc45eeb2ade83e5425c0f93.svg",
+    "static/media/callp.svg": "/thebradaffiliate/static/media/callp.f21cc9ab12b1ef3e258a78fa7c95defc.svg",
+    "index.html": "/thebradaffiliate/index.html",
+    "main.2e4c7e64.css.map": "/thebradaffiliate/static/css/main.2e4c7e64.css.map",
+    "main.a41eb770.js.map": "/thebradaffiliate/static/js/main.a41eb770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e4c7e64.css",
+    "static/js/main.a41eb770.js"
+  ]
+}
