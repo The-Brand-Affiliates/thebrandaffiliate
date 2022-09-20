@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thebrandaffiliate/static/css/main.2e4c7e64.css",
+    "main.js": "/thebrandaffiliate/static/js/main.3e55cc7c.js",
+    "static/media/Slice6.svg": "/thebrandaffiliate/static/media/Slice6.3ed3615db95650e1f5b09c36677b5c15.svg",
+    "static/media/Slice 3.svg": "/thebrandaffiliate/static/media/Slice 3.91bc98203fd818eef99d1985fa698a06.svg",
+    "static/media/Slice 5.svg": "/thebrandaffiliate/static/media/Slice 5.1784167657287f579d2934204892ce99.svg",
+    "static/media/Slice 1.svg": "/thebrandaffiliate/static/media/Slice 1.b2f911ed6bd2172ffe8b987943540070.svg",
+    "static/media/Slice 4.svg": "/thebrandaffiliate/static/media/Slice 4.ed4743e327bb2cfe1bf31ed343239060.svg",
+    "static/media/image.png": "/thebrandaffiliate/static/media/image.f7cf8aca8d9f152adab3.png",
+    "static/media/Slice 2.svg": "/thebrandaffiliate/static/media/Slice 2.d0bda1116bcd2930b77d1b8f2dd417bf.svg",
+    "static/media/logo.svg": "/thebrandaffiliate/static/media/logo.678c118cd3ab7a5bba9ce0663ca61c3e.svg",
+    "static/media/msgp.svg": "/thebrandaffiliate/static/media/msgp.7a17b9b393ba515d313245e4bc4b8272.svg",
+    "static/media/callp.svg": "/thebrandaffiliate/static/media/callp.dd85c847e83730368f32a6b829c586e2.svg",
+    "index.html": "/thebrandaffiliate/index.html",
+    "main.2e4c7e64.css.map": "/thebrandaffiliate/static/css/main.2e4c7e64.css.map",
+    "main.3e55cc7c.js.map": "/thebrandaffiliate/static/js/main.3e55cc7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e4c7e64.css",
+    "static/js/main.3e55cc7c.js"
+  ]
+}
